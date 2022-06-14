@@ -7,3 +7,11 @@ For Testing, check DenseNet_3D_NUS_NMR.ipynb file last section. This section is 
 Also, I'm not adding EDHRN.h5 code here since it is available on github.
 
 At the time of ploting Pearson Correaltion plot make sure you are giving right size to the code.
+
+Scheduler:
+  Scheduler.xlsx : Contain 25% NUS scheduling for 128x32 matrix. (For Training)
+  Scheduler_12.xlsx : Contain 12.5% NUS scheduling for 128x32 matrix. (For Training)
+  Scheduler_25.xlsx : Contain 25% NUS scheduling for 120x32 matrix. (For testing with EDHRN model)
+  Scheduler_125.xlsx : Contain 12.5% NUS scheduling for 120x32 matrix. (For testing with EDHRN model)
+
+
