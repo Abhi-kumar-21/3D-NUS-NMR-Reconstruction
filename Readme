@@ -1,5 +1,7 @@
 This repository contains files for reconstruction of 3D NUS NMR Spectra. 
+
 Code is in python.
+
 Scheduler file contains the poission sampling schedule.
 
 For Testing, check DenseNet_3D_NUS_NMR.ipynb file last section. This section is about loading 2D matrices files of 3D NMR data. 
