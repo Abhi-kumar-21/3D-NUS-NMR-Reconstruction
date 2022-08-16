@@ -6,7 +6,7 @@ Scheduler file contains the poission sampling schedule.
 
 For Testing, check DenseNet_3D_NUS_NMR.ipynb file last section. This section is about loading 2D matrices files of 3D NMR data. 
 
-Also, I'm not adding EDHRN.h5 code here since it is available on github.
+Also, I'm not adding EDHRN model code but I you can find EDHRN_3d.h5.
 
 At the time of ploting Pearson Correaltion plot make sure you are giving right size to the code.
 
